@@ -1,1 +1,1 @@
-# QuickRide_Application
+A scalable backend service for a ride-booking like Uber application. It includes core functionalities for user like authentication, ride management, payment processing, and driver allocation with robust support for route optimization and surge pricing.# QuickRide_Application
